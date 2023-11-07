@@ -7,8 +7,8 @@
 
 // Define your SSID and Pass to Connect and get the network from
 #ifndef STASSID
-#define STASSID "SSID to Connect"
-#define STAPSK "Password for SSID"
+#define STASSID "Khattri house2"
+#define STAPSK "123456789"
 #endif
 
 
